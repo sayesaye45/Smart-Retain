@@ -26,13 +26,12 @@ SmartRetain adalah aplikasi dashboard interaktif yang membantu divisi HR mengide
 
 ## Struktur File
 smartretain/
-│
-├── app.py                  # File utama aplikasi Streamlit
-├── model_rf.pkl            # Model Random Forest yang sudah dilatih
-├── feature_columns.json    # Daftar fitur yang digunakan model
-├── train_data.csv          # Dataset (unduh dari Kaggle)
-├── requirements.txt        # Library yang dibutuhkan
-└── README.md               # Dokumentasi ini
+app.py                  # File utama aplikasi Streamlit
+model_rf.pkl            # Model Random Forest yang sudah dilatih
+feature_columns.json    # Daftar fitur yang digunakan model
+train_data.csv          # Dataset (unduh dari Kaggle)
+requirements.txt        # Library yang dibutuhkan
+README.md               # Dokumentasi ini
 
 
 ---
