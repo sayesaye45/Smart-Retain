@@ -101,6 +101,9 @@ https://drive.google.com/drive/folders/1e22AgFCKp_NyC_4D5hDFBTQJCS-suyox?usp=sha
 2. Salary
 3. Quarterly Rating
 
+## Link Drive Model AI
+https://drive.google.com/drive/folders/1e22AgFCKp_NyC_4D5hDFBTQJCS-suyox?usp=sharing
+
 ---
 
 ##  Risk Scoring System
