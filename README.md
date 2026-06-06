@@ -93,9 +93,6 @@ scipy
 | Random Forest | 84.1% | Model final (`class_weight='balanced'`) |
 | KNN (k=5) | Pembanding | Digunakan untuk A/B Testing |
 
-## Link Drive Model AI
-https://drive.google.com/drive/folders/1e22AgFCKp_NyC_4D5hDFBTQJCS-suyox?usp=sharing
-
 **Faktor paling berpengaruh (Feature Importance RF):**
 1. Total Business Value
 2. Salary
