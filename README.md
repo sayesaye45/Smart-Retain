@@ -31,6 +31,7 @@ smartretain/
 -feature_columns.json (Daftar fitur yang digunakan model)
 -train_data.csv (Dataset (unduh dari Kaggle))
 -requirements.txt (Library yang dibutuhkan)
+-predicting_Employee_Attrition.ipynb
 -README.md (Dokumentasi)
 
 
@@ -40,7 +41,7 @@ smartretain/
 
 ### 1. Clone repository ini
 ```bash
-git clone https://github.com/username/smartretain.git
+github.com/sayesaye45/Smart-Retain
 cd smartretain
 ```
 
